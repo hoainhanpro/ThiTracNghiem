@@ -1,0 +1,12 @@
+D21CQCN01-N|Công Nghệ Thông Tin 1|2021-2022
+D21CQCN02-N|Công Nghệ Thông Tin 2|2021-2022
+D21CQVT01-N|Kỹ Thuật Điện Tử Viễn Thông|2021-2022
+D21CQQT01-N|Quản Trị Kinh Doanh|2021-2022
+D21CQAT01-N|An Toàn Thông Tin|2021-2022
+D21CQKT01-N|Kế Toán|2021-2022
+D21CQTD01-N|Kỹ Thuật Điều Khiển và tự động hóa|2021-2022
+D21CQMR01-N|Marketing|2021-2022
+D21CQPT01-N|Công nghệ đa phương tiện|2021-2022
+D21CQDT01-N|Công nghệ kỹ thuật điện, điện tử|2021-2022
+D22CQCN02-N|Công Nghệ Thông Tin 2|2023-2024
+D22CQCN1-N|Công nghệ thông tin 1|2023-2024

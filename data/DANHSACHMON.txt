@@ -1,0 +1,29 @@
+BAS1105-7|Giáo dục quốc phòng an ninh
+BAS1106|Giáo dục thế chất 1
+BAS1107|Giáo dục thể chất 2
+BAS1122|Tư tưởng Hồ Chí Minh
+BAS1150|Triết học Mác - Lênin
+BAS1151|Kinh tế chính trị Mác - Lênin
+BAS1152|Chủ nghĩa xã hội khoa học
+BAS1156|Tiếng Anh Bổ Trợ
+BAS1157|Tiếng Anh (Course 1)
+BAS1158|Tiếng Anh (Course 2)
+BAS1159|Tiếng Anh (Course 3)
+BAS1201|Đại số
+BAS1203|Giải tích
+BAS1204|Giải tích 2
+BAS1224|Vật lý 1 và thí nghiệm
+BAS1226|Xác suất thống kê
+BAS1227|Vật lý 3 và thí nghiệm
+ELE1319|Lý thuyết thông tin
+ELE1330|Xử lý tín hiệu số
+ELE1433|Kỹ thuật số
+INT1154|Tin học cơ sở 1
+INT1155|Tin học cơ sở 2
+INT1306|Cấu trúc dữ liệu và giải thuật
+INT13145|Kiến trúc máy tính
+INT1339|Ngôn ngữ lập trình C++
+INT1358|Toán rời rạc 1
+INT1359-3|Toán rời rạc 2
+SKD1101|Kỹ năng thuyết trình
+SKD1102|Kỹ năng làm việc nhóm
